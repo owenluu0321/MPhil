@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "WnOZK1tpnh9qetOsYHqKPos8DHywH6C8zCXRa1bdEFTsMObs1a6Nd+ph/QGGz5tD9NqnC7mZCHnc5Djm2flLAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\owenl\\source\\repos\\DfMA_Multi_Criteria\\DfMA_Multi_Criteria\\Phoenix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\owenl\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\owenl\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\owenl\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\owenl\\.nuget\\packages\\microsoft.bcl.hashcode\\1.0.0\\microsoft.bcl.hashcode.1.0.0.nupkg.sha512",
+    "C:\\Users\\owenl\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
+    "C:\\Users\\owenl\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\owenl\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\owenl\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\owenl\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\owenl\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\owenl\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
